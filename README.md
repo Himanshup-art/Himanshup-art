@@ -23,8 +23,7 @@ I am a passionate Computer Engineering student at **MIT Academy of Engineering, 
 
 ### 📊 GitHub Stats
 
-![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Himanshup-art&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshup-art&layout=compact&theme=radical)
+
 
 ---
 
